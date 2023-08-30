@@ -1,0 +1,20 @@
+# Site settings
+title: SDLC Activities
+description: SDLC Activities
+baseurl: "/gc-sdlc-activities"
+url: "http://gc-sdlc-activities.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files/folders from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
