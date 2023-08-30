@@ -1,3 +1,8 @@
+---
+layout: default
+title: SDLC Activities
+---
+
 # SDLC Activities
 
 ## Activity 1: Requirements Gathering
